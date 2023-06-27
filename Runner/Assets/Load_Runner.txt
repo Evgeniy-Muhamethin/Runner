@@ -1,0 +1,9 @@
+Игра в стиле Load Runner.
+Референсы:
+Игры:
+1)https://fog-game.ru/lode-runner/
+2)https://www.crazygames.ru/igra/lode-runner
+Спрайты:
+https://www.spriters-resource.com/
+Игровой Процесс:
+https://ru.wikipedia.org/wiki/Lode_Runner
